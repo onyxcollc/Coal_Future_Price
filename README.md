@@ -1,7 +1,7 @@
 # Coal_Futures
-#![Coal_pic.jpg]("Pics/Coal_pic.jpg")
 
-[<img src="Pics/Coal_pic.Jjpg"/>]
+
+[<img src="Pics/Coal_pic.jpg"/>]
 # Background 
  Interested in seeing how different Machine Learning models can be used to build a picture of future price trends and action in a given security.
 In this case, we chose to take a look into coal as a commodity, examining sentiment in coal, while applying Machine Learning models to price action in a given market, specifically NCF Coal Futures (Coal Futures traded in Newcastle, Australia) from Dec 2008-Jan-2021.
