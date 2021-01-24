@@ -9,9 +9,9 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
 ---
 
 # Machine Models 
-Sentiment Analysis
-Facebook Prophet
-Long Short Term Memory (LSTM)
+- Sentiment Analysis
+- Facebook Prophet
+- Long Short Term Memory (LSTM)
 
 ---
 
