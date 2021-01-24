@@ -19,7 +19,7 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
    With NLP you would need to gather news articles about coal and energy for contrast. 
   Analyzing over 5,000+ articles WITH NEWSAPI will give a good range of coverage in the analytical process.
   Found the top 10 words in the articles with N-Gram Frequency Analysis which directed us into what is going on with coal prices.
-  Created a word cloud for further analysis inot the articles. 
+  Created a word cloud for further analysis into the articles. 
 
 
 
