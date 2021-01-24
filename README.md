@@ -15,7 +15,7 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
 
 ---
 
-## Setiment Analysis             Nico 
+## Setiment Analysis    /         Nico 
    With NLP you would need to gather news articles about coal and energy for contrast. 
   Analyzing over 5,000+ articles WITH NEWSAPI will give a good range of coverage in the analytical process.
   Found the top 10 words in the articles with N-Gram Frequency Analysis which directed us into what is going on with coal prices.
@@ -80,7 +80,7 @@ Article 3 & 4 January
 
 ## Models
 
-### Facebook Prophet                Etienne
+### Facebook Prophet       /         Etienne
 
 Prophet is a forecasting tool used to produce time series analysis that can be altered at the user’s preference.
 It allows for quick adjustments to account for trend, seasonality, and holidays.
@@ -94,7 +94,7 @@ Excels with flexibility in seasonality and historical trends.
 As you can see the model did not do well at all,  this model is underfit.
 
 
-### LSTM               Adam
+### LSTM       /        Adam
 
 
 Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. 
