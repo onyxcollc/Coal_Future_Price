@@ -69,10 +69,24 @@ Article 2 November
 
 
 
-Article 3 January
+Article 3 & 4 January
 •	50 ships carrying Australian coal still stranded off the China Coast. 
 •	China tells utilities to stop trading with Australia.
 •	China head of states deny political strife cause of black out’s in major cities.  
+•	Several major cities in China have reportedly gone dark as authorities limit power usage, citing a shortage of coal.
+
+---
+
+
+## Models
+
+### Facebook Prophet
+
+Prophet is a forecasting tool used to produce time series analysis that can be altered at the user’s preference.
+It allows for quick adjustments to account for trend, seasonality, and holidays.
+Users can change the growth trend, changepoints, intervals, regression, and saturation. 
+Excels with flexibility in seasonality and historical trends.
+
 
 
 
