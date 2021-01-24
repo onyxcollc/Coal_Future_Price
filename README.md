@@ -36,7 +36,7 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
 ## Articles 
 
 
-Found Articles correlating to the sentiment analysis; which lead us to a series of articales that showed the clashing events between China and Australia.
+Found articles correlating to the sentiment analysis; which lead us to a series of articales that showed the clashing events between China and Australia.
 
 
 
