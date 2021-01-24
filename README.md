@@ -110,6 +110,16 @@ This model was a better predictor, almost spot on.
 
 [<img src="Pics/Data_1.PNG"/>]
 
+---
+
+## Conclusion
+
+Using sentiment analysis gives a picture towards what might be the micro/macro narratives influencing the movement in price in coal markets, e.g. China’s position as a key import market.
+
+Machine learning models perhaps offer more insight into understanding trends, where perhaps not giving clues into forecasting future movements into price action. 
+Compared to the FB Prophet, LSTM models can give a more accurate account of trends, in the same way as widely-used (but lagging) indicators.
+
+
 
 
 
