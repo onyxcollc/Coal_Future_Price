@@ -22,6 +22,11 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
   Created a word cloud for further analysis inot the articles. 
   
 
+[<img src="Pics/sentiment.png"/>]
 
+
+
+
+[<img src="Pics/word_cloud.png"/>]
 
 
