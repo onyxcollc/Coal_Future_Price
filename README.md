@@ -1,5 +1,5 @@
 # Coal_Futures
-![Coal_pic.jpg](Coal_pic.jpg)
+![Coal_pic.jpg]("Pics/Coal_pic.jpg")
 
 
 # Background 
