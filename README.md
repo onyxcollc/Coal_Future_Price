@@ -1,7 +1,7 @@
 # Coal_Futures
 
 
-[<img src="Pics/Coal_pic.jpg"/>]
+<img src="Pics/Coal_pic.jpg"/>
 # Background 
   Our Team Nico, Adam , & Etienne are interested in seeing how different Machine Learning models can be used to build a picture of future price trends and action in a given security.
 In this case, we chose to take a look into coal as a commodity, examining sentiment in coal, while applying Machine Learning models to price action in a given market, specifically NCF Coal Futures (Coal Futures traded in Newcastle, Australia) from Dec 2008-Jan-2021.
@@ -23,12 +23,12 @@ In this case, we chose to take a look into coal as a commodity, examining sentim
 
 
 
-[<img src="Pics/sentiment.PNG"/>]
+<img src="Pics/sentiment.PNG"/>
 
 
 
 
-[<img src="Pics/word_cloud.PNG"/>]
+<img src="Pics/word_cloud.PNG"/>
 
 ---
 
@@ -41,7 +41,7 @@ Found articles correlating to the sentiment analysis; which lead us to a series 
 
 
 
-[<img src="Pics/Articles 1.PNG"/>]
+<img src="Pics/Articles 1.PNG"/>
 
 
 
@@ -62,7 +62,7 @@ Article 2 November
 
 
 
-[<img src="Pics/Articles 2.PNG"/>]
+<img src="Pics/Articles 2.PNG"/>
 
 
 -Follow Left To Right-
@@ -89,7 +89,7 @@ Excels with flexibility in seasonality and historical trends.
 
 
 
-[<img src="Pics/FB_prophet.PNG"/>]
+<img src="Pics/FB_prophet.PNG"/>
 
 As you can see the model did not do well at all,  this model is underfit.
 
@@ -102,13 +102,13 @@ LSTM networks are well-suited to classifying, processing and making predictions 
 
 
 
-[<img src="Pics/lstm_model.PNG"/>]
+<img src="Pics/lstm_model.PNG"/>
 
 
 This model was a better predictor, almost spot on.  
 
 
-[<img src="Pics/Data_1.PNG"/>]
+<img src="Pics/Data_1.PNG"/>
 
 ---
 
