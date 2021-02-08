@@ -2,6 +2,8 @@
 
 
 <img src="Pics/Coal_pic.jpg"/>
+
+
 # Background 
   
   Our Team Nico, Adam , & Etienne are interested in seeing how different Machine Learning models can be used to build a picture of future price trends and action in a given security.
